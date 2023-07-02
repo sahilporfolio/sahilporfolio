@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sahil 😁
-- 👀 I’m interested in prgramming duh 🙄
+- 👀 I’m interested in prgramming 🙄
 - 🌱 I’m currently learning c++,python 🐍
 - 💞️ I’m looking to collaborate on new projects 🎦
 - 📫 How to reach me -- sahilpinjari202@gmail.com 😉
